@@ -11,6 +11,7 @@ import Inventory from "./pages/Inventory/Inventory"
 import Forecasting from "./pages/Forecasting/Forecasting"
 import Offers from "./pages/Offers/Offers"
 import UploadDataset from "./pages/UploadDataset";
+import Subscription from "./pages/Subscription/Subscription";
 
 function App(){
 
@@ -48,6 +49,11 @@ element={<Forecasting/>}
 <Route
 path="/offers"
 element={<Offers/>}
+/>
+
+<Route
+path="/subscription"
+element={<Subscription/>}
 />
 
 </Routes>
