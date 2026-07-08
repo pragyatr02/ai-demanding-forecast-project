@@ -1,68 +1,73 @@
-import "./Offers.css"
-import Navbar from "../../components/Navbar/Navbar"
+import "./Offers.css";
+import Navbar from "../../components/Navbar/Navbar";
 
-function Offers(){
-
-return(
+function Offers() {
+  return (
     <div>
+      <Navbar />
 
-<Navbar/>
+      <div className="offers">
 
-<div className="offers">
+        <div className="offers-header">
+          <h1>Offers & Promotions</h1>
+          <button>Create Offer</button>
+        </div>
 
-<h1>Special Offers</h1>
+        <div className="offer-grid">
 
-<div className="offer-grid">
+          <div className="offer-card">
+            <div className="discount">50% OFF</div>
 
-<div className="offer-card">
+            <h2>Dairy Products</h2>
 
-<h2>Summer Sale</h2>
+            <p>
+              Get exciting discounts on Milk, Butter and Cheese.
+            </p>
 
-<p>
-20% OFF on selected products
-</p>
+            <span>Valid Till: 15 July</span>
+          </div>
 
-<button>
-View
-</button>
+          <div className="offer-card">
+            <div className="discount">30% OFF</div>
 
-</div>
-</div>
+            <h2>Bakery Items</h2>
 
-<div className="offer-card">
+            <p>
+              Fresh bread and cakes at amazing prices.
+            </p>
 
-<h2>Premium Plan</h2>
+            <span>Valid Till: 18 July</span>
+          </div>
 
-<p>
-Get AI insights and forecasts
-</p>
+          <div className="offer-card">
+            <div className="discount">Buy 1 Get 1</div>
 
-<button>
-Upgrade
-</button>
+            <h2>Beverages</h2>
 
-</div>
+            <p>
+              Buy one soft drink and get another free.
+            </p>
 
-<div className="offer-card">
+            <span>Valid Till: 20 July</span>
+          </div>
 
-<h2>Inventory Boost</h2>
+          <div className="offer-card">
+            <div className="discount">Festival Sale</div>
 
-<p>
-Extra analytics for inventory
-</p>
+            <h2>Groceries</h2>
 
-<button>
-Explore
-</button>
+            <p>
+              Save more on daily grocery essentials.
+            </p>
 
-</div>
+            <span>Valid Till: 25 July</span>
+          </div>
 
-</div>
+        </div>
 
-</div>
-
-)
-
+      </div>
+    </div>
+  );
 }
 
-export default Offers
+export default Offers;

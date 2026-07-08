@@ -1,85 +1,100 @@
-import "./Dashboard.css"
-import Navbar from "../../components/Navbar/Navbar"
+import "./Dashboard.css";
+import Navbar from "../../components/Navbar/Navbar";
 
 function Dashboard() {
   return (
     <div>
+      <Navbar />
 
-<Navbar/>
+      <div className="dashboard">
 
+        <div className="top">
+          <div>
+            <h1>Dashboard</h1>
+            <p>Welcome back! Here's your business overview.</p>
+          </div>
 
-<div className="dashboard">
+          <div className="profile">
+            👩 Admin
+          </div>
+        </div>
 
-<div className="top">
+        {/* Cards */}
 
-<h1>Dashboard</h1>
+        <div className="cards">
 
-<div className="profile">
-👩 Admin
-</div>
-</div>
+          <div className="card">
+            <h3>Total Sales</h3>
+            <h2>₹85,420</h2>
+            <span>▲ +18% this month</span>
+          </div>
 
-</div>
+          <div className="card">
+            <h3>Inventory</h3>
+            <h2>230 Items</h2>
+            <span>15 Low Stock Products</span>
+          </div>
 
-<div className="cards">
+          <div className="card">
+            <h3>Forecast Accuracy</h3>
+            <h2>92%</h2>
+            <span>AI Prediction Model</span>
+          </div>
 
-<div className="card">
-<h3>Total Sales</h3>
-<h2>₹85,420</h2>
-</div>
+          <div className="card">
+            <h3>Active Offers</h3>
+            <h2>18</h2>
+            <span>5 Ending Today</span>
+          </div>
 
-<div className="card">
-<h3>Inventory</h3>
-<h2>230 Items</h2>
-</div>
+        </div>
 
-<div className="card">
-<h3>Forecast Accuracy</h3>
-<h2>92%</h2>
-</div>
+        {/* Middle Section */}
 
-<div className="card">
-<h3>Active Offers</h3>
-<h2>18</h2>
-</div>
+        <div className="middle">
 
-</div>
+          <div className="chart">
 
-<div className="middle">
+            <h2>📈 Demand Forecast</h2>
 
-<div className="chart">
+            <div className="bars">
 
-<h2>Demand Forecast</h2>
+              <div className="bar one"></div>
+              <div className="bar two"></div>
+              <div className="bar three"></div>
+              <div className="bar four"></div>
 
-<div className="bars">
+            </div>
 
-<div className="bar one"></div>
-<div className="bar two"></div>
-<div className="bar three"></div>
-<div className="bar four"></div>
+          </div>
 
-</div>
+          <div className="activity">
 
-</div>
+            <h2>🤖 AI Insights</h2>
 
-<div className="activity">
+            <div className="activity-item">
+              ✔ Inventory Updated
+            </div>
 
-<h2>Recent Activity</h2>
+            <div className="activity-item">
+              ✔ AI Forecast Generated
+            </div>
 
-<p>✔ Inventory Updated</p>
+            <div className="activity-item">
+              ✔ Demand expected to increase by 22%
+            </div>
 
-<p>✔ AI Forecast Generated</p>
+            <div className="activity-item">
+              ✔ Milk and Bread require restocking
+            </div>
 
-<p>✔ New Offer Created</p>
+          </div>
 
-</div>
+        </div>
 
-</div>
-
-</div>
-
-)
-
+      </div>
+    </div>
+  );
 }
 
-export default Dashboard
+export default Dashboard;

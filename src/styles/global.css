@@ -1,13 +1,32 @@
-body {
-  background: white;
-  color: black;
-  margin: 0;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
 }
 
-h1{
-  color:black;
+body{
+background:#f4f7fc;
+color:#1e293b;
 }
 
-p{
-  color:black;
+a{
+text-decoration:none;
+color:inherit;
+}
+
+button{
+cursor:pointer;
+transition:.3s;
+border:none;
+}
+
+input{
+outline:none;
+}
+
+.page{
+padding:30px;
 }

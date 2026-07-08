@@ -29,15 +29,17 @@ return(
 <div className="login-page">
 
 <div className="left">
+  <h1>AI Demand Forecast</h1>
 
-<h1>AI Demand Forecast</h1>
-
-<p>
-Predict demand.
-Manage inventory.
-Grow smarter.
-</p>
-
+  <p>
+    Predict Future Sales
+    <br />
+    Optimize Inventory
+    <br />
+    Reduce Product Waste
+    <br />
+    Increase Profitability
+  </p>
 </div>
 
 <div className="login-card">

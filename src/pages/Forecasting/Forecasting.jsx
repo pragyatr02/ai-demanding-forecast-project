@@ -1,58 +1,72 @@
-import "./Forecasting.css"
-import Navbar from "../../components/Navbar/Navbar"
+import "./Forecasting.css";
+import Navbar from "../../components/Navbar/Navbar";
 
-function Forecasting(){
-
-return(
+function Forecasting() {
+  return (
     <div>
+      <Navbar />
 
-<Navbar/>
+      <div className="forecast">
 
-<div className="forecast">
+        <div className="forecast-header">
+          <h1>AI Demand Forecast</h1>
+          <button>Generate Forecast</button>
+        </div>
 
-<h1>AI Demand Forecasting</h1>
+        <div className="forecast-cards">
 
-<div className="prediction">
+          <div className="forecast-card">
+            <h3>Expected Sales</h3>
+            <h2>₹1,28,000</h2>
+            <p>Next 30 Days</p>
+          </div>
 
-<div className="left">
+          <div className="forecast-card">
+            <h3>Prediction Accuracy</h3>
+            <h2>92%</h2>
+            <p>Machine Learning Model</p>
+          </div>
 
-<h2>Demand Prediction</h2>
+          <div className="forecast-card">
+            <h3>High Demand Product</h3>
+            <h2>Milk 🥛</h2>
+            <p>Expected Growth +28%</p>
+          </div>
 
-<div className="graph">
+        </div>
 
-<div className="line"></div>
+        <div className="graph-box">
 
-</div>
-</div>
+          <h2>Demand Trend</h2>
 
-</div>
+          <div className="graph">
 
-<div className="right">
+            <div className="line one"></div>
+            <div className="line two"></div>
+            <div className="line three"></div>
+            <div className="line four"></div>
+            <div className="line five"></div>
 
-<div className="box">
+          </div>
 
-<h3>Expected Demand</h3>
+        </div>
 
-<h2>+18%</h2>
+        <div className="prediction-box">
 
-</div>
+          <h2>🤖 AI Recommendations</h2>
 
-<div className="box">
+          <ul>
+            <li>Increase Milk stock by 25%</li>
+            <li>Reduce Cold Drinks inventory</li>
+            <li>Launch Bakery offers this weekend</li>
+            <li>Demand expected to rise before festivals</li>
+          </ul>
 
-<h3>Inventory Suggestion</h3>
+        </div>
 
-<h2>Restock Soon</h2>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-)
-
+      </div>
+    </div>
+  );
 }
 
-export default Forecasting
+export default Forecasting;

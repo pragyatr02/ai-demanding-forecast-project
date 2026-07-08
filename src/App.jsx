@@ -10,6 +10,7 @@ import Dashboard from "./pages/Dashboard/Dashboard"
 import Inventory from "./pages/Inventory/Inventory"
 import Forecasting from "./pages/Forecasting/Forecasting"
 import Offers from "./pages/Offers/Offers"
+import UploadDataset from "./pages/UploadDataset";
 
 function App(){
 
@@ -18,6 +19,11 @@ return(
 <BrowserRouter>
 
 <Routes>
+    
+<Route
+  path="/upload"
+  element={<UploadDataset />}
+/>
 
 <Route
 path="/"

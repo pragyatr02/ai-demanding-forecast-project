@@ -1,62 +1,85 @@
-import "./Inventory.css"
-import Navbar from "../../components/Navbar/Navbar"
+import "./Inventory.css";
+import Navbar from "../../components/Navbar/Navbar";
 
 function Inventory() {
-
-const data=[
-["Laptop",45],
-["Mouse",120],
-["Keyboard",70],
-["Monitor",35],
-]
-
-return(
+  return (
     <div>
 
-<Navbar/>
+      <Navbar />
 
-<div className="inventory">
+      <div className="inventory">
 
-<h1>Inventory</h1>
+        <div className="inventory-top">
+          <h1>Inventory Management</h1>
 
-<div className="table">
+          <button className="add-btn">
+            + Add Product
+          </button>
+        </div>
 
-<div className="header">
+        <div className="search-box">
+          <input
+            type="text"
+            placeholder="🔍 Search Product..."
+          />
+        </div>
 
-<span>Product</span>
+        <table>
 
-<span>Stock</span>
+          <thead>
 
-</div>
-</div>
+            <tr>
+              <th>Product</th>
+              <th>Category</th>
+              <th>Stock</th>
+              <th>Demand</th>
+              <th>Status</th>
+            </tr>
 
-{
-data.map((item,index)=>(
+          </thead>
 
-<div
-className="row"
-key={index}
->
+          <tbody>
 
-<span>
-{item[0]}
-</span>
+            <tr>
+              <td>Milk</td>
+              <td>Dairy</td>
+              <td>42</td>
+              <td>High</td>
+              <td><span className="green">Available</span></td>
+            </tr>
 
-<span>
-{item[1]}
-</span>
+            <tr>
+              <td>Bread</td>
+              <td>Bakery</td>
+              <td>16</td>
+              <td>Medium</td>
+              <td><span className="orange">Low Stock</span></td>
+            </tr>
 
-</div>
+            <tr>
+              <td>Rice</td>
+              <td>Groceries</td>
+              <td>89</td>
+              <td>High</td>
+              <td><span className="green">Available</span></td>
+            </tr>
 
-))
+            <tr>
+              <td>Cold Drink</td>
+              <td>Beverages</td>
+              <td>0</td>
+              <td>Low</td>
+              <td><span className="red">Out of Stock</span></td>
+            </tr>
+
+          </tbody>
+
+        </table>
+
+      </div>
+
+    </div>
+  );
 }
 
-</div>
-
-</div>
-
-)
-
-}
-
-export default Inventory
+export default Inventory;

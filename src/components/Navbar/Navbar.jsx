@@ -1,7 +1,10 @@
-import "./Navbar.css"
-import { Link } from "react-router-dom"
+import "./Navbar.css";
+import { Link } from "react-router-dom";
+import { useState } from "react";
 
-function Navbar(){
+function Navbar() {
+
+const [open,setOpen]=useState(false);
 
 return(
 
@@ -9,27 +12,55 @@ return(
 
 <h2>AI Forecast</h2>
 
-<div className="links">
+<div className="admin-section">
 
-<Link to="/dashboard">
-Dashboard
-</Link>
+<button
+className="admin-btn"
+onClick={()=>setOpen(!open)}
+>
+Admin
+</button>
 
-<Link to="/inventory">
-Inventory
-</Link>
+{
+open && (
 
-<Link to="/forecasting">
-Forecasting
-</Link>
+<div className="profile-menu">
 
-<Link to="/offers">
-Offers
-</Link>
+<div className="profile-info">
 
-<Link to="/">
-Logout
-</Link>
+<h3>Admin</h3>
+
+<p>Retail Manager</p>
+
+<p>admin@gmail.com</p>
+
+</div>
+
+<hr/>
+
+<Link to="/dashboard">Dashboard</Link>
+
+<Link to="/inventory">Inventory</Link>
+
+<Link to="/forecasting">Forecasting</Link>
+
+<Link to="/offers">Offers</Link>
+
+<Link to="/subscription">Subscription</Link>
+
+<hr/>
+
+<Link to="#">Profile</Link>
+
+<Link to="#">Settings</Link>
+
+<Link to="/">Logout</Link>
+
+</div>
+
+)
+
+}
 
 </div>
 
@@ -39,4 +70,4 @@ Logout
 
 }
 
-export default Navbar
+export default Navbar;

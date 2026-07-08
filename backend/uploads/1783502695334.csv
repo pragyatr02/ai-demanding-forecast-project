@@ -1,0 +1,181 @@
+﻿Date,Day_of_Week,Month,Quarter,Product_ID,Product_Name,Category,Unit_Price,Competitor_Price,Discount_Percent,Inventory_Begin,Units_Sold,Inventory_End,Customers,Promotion,Holiday,Festival_Name,Weather,Marketing_Spend,Customer_Rating,Online_Sales,Offline_Sales,Supplier_Lead_Time_Days,Store_Location
+2025-01-01,Wednesday,1,1,P002,Ibuprofen,Pain Relief,40,41.86,15,282,27,255,279,1,0,None,Sunny,35924,3.2,22,5,12,Thane
+2025-01-02,Thursday,1,1,C001,Cough Syrup,Cold & Flu,90,85.13,5,387,87,300,111,1,0,None,Rainy,13359,4.8,26,61,6,Thane
+2025-01-03,Friday,1,1,P002,Ibuprofen,Pain Relief,40,37.28,25,286,76,210,83,1,0,None,Rainy,1369,4.2,35,41,3,Pune
+2025-01-04,Saturday,1,1,P001,Paracetamol,Pain Relief,25,26.5,15,480,8,472,84,1,0,None,Sunny,40917,3.5,3,5,10,Nashik
+2025-01-05,Sunday,1,1,V002,Multivitamin,Vitamins,180,197.94,15,320,92,228,51,1,0,None,Sunny,20654,4.3,43,49,5,Pune
+2025-01-06,Monday,1,1,V002,Multivitamin,Vitamins,180,167.3,25,442,70,372,187,1,0,None,Rainy,4577,4.5,63,7,12,Mumbai
+2025-01-07,Tuesday,1,1,V001,Vitamin C,Vitamins,120,120.59,5,450,81,369,202,1,0,None,Cloudy,30864,3,28,53,2,Thane
+2025-01-08,Wednesday,1,1,P001,Paracetamol,Pain Relief,25,24.45,0,418,81,337,225,0,0,None,Rainy,41532,5,26,55,11,Thane
+2025-01-09,Thursday,1,1,V001,Vitamin C,Vitamins,120,127.17,0,408,61,347,121,0,0,None,Rainy,11319,3.2,10,51,3,Pune
+2025-01-10,Friday,1,1,V001,Vitamin C,Vitamins,120,108.88,15,112,37,75,262,1,0,None,Hot,23522,4.4,4,33,9,Pune
+2025-01-11,Saturday,1,1,V002,Multivitamin,Vitamins,180,164.79,20,263,23,240,157,1,0,None,Hot,18070,4.7,6,17,2,Pune
+2025-01-12,Sunday,1,1,P001,Paracetamol,Pain Relief,25,26.48,0,249,39,210,33,1,0,None,Cloudy,16202,3.8,0,39,11,Mumbai
+2025-01-13,Monday,1,1,P002,Ibuprofen,Pain Relief,40,42.83,20,379,87,292,200,0,0,None,Cloudy,45159,4.8,80,7,1,Pune
+2025-01-14,Tuesday,1,1,P001,Paracetamol,Pain Relief,25,23.29,25,404,84,320,21,0,0,None,Sunny,47102,3.6,45,39,7,Pune
+2025-01-15,Wednesday,1,1,C002,Cold Tablet,Cold & Flu,60,64.91,20,422,62,360,158,0,0,None,Sunny,41987,3.9,12,50,12,Pune
+2025-01-16,Thursday,1,1,C001,Cough Syrup,Cold & Flu,90,91.42,5,383,43,340,44,0,0,None,Hot,31041,3.9,8,35,6,Mumbai
+2025-01-17,Friday,1,1,P001,Paracetamol,Pain Relief,25,24.9,25,276,58,218,65,0,0,None,Cloudy,41980,4.3,1,57,9,Pune
+2025-01-18,Saturday,1,1,P001,Paracetamol,Pain Relief,25,26.08,25,137,50,87,73,1,0,None,Hot,22174,3.2,47,3,15,Thane
+2025-01-19,Sunday,1,1,C001,Cough Syrup,Cold & Flu,90,97.47,5,428,49,379,279,0,0,None,Sunny,36914,3.2,14,35,8,Mumbai
+2025-01-20,Monday,1,1,V002,Multivitamin,Vitamins,180,179.73,25,229,70,159,279,0,0,None,Cloudy,2923,4.2,61,9,9,Mumbai
+2025-01-21,Tuesday,1,1,V001,Vitamin C,Vitamins,120,110.73,10,70,34,36,184,0,0,None,Sunny,42110,3.6,29,5,5,Nashik
+2025-01-22,Wednesday,1,1,V002,Multivitamin,Vitamins,180,167.64,20,367,29,338,98,0,0,None,Rainy,47718,3.8,10,19,2,Nashik
+2025-01-23,Thursday,1,1,V001,Vitamin C,Vitamins,120,118.65,0,210,39,171,124,0,0,None,Rainy,31953,4.5,9,30,14,Mumbai
+2025-01-24,Friday,1,1,V002,Multivitamin,Vitamins,180,164.19,15,229,5,224,99,1,0,None,Rainy,29566,3.4,0,5,5,Nashik
+2025-01-25,Saturday,1,1,P002,Ibuprofen,Pain Relief,40,36.22,10,254,55,199,143,1,0,None,Rainy,4438,4.3,16,39,2,Nashik
+2025-01-26,Sunday,1,1,P001,Paracetamol,Pain Relief,25,23.57,25,453,83,370,285,1,0,None,Rainy,27461,4.9,60,23,8,Nashik
+2025-01-27,Monday,1,1,P002,Ibuprofen,Pain Relief,40,38.84,25,305,81,224,152,0,0,None,Hot,38704,4.2,6,75,14,Nashik
+2025-01-28,Tuesday,1,1,V002,Multivitamin,Vitamins,180,188.57,10,236,46,190,272,0,0,None,Hot,41483,3.8,10,36,13,Thane
+2025-01-29,Wednesday,1,1,V001,Vitamin C,Vitamins,120,113.9,0,321,32,289,163,0,0,None,Hot,15363,4.9,11,21,6,Thane
+2025-01-30,Thursday,1,1,V001,Vitamin C,Vitamins,120,124.55,25,354,39,315,57,1,0,None,Cloudy,41088,4.5,30,9,6,Nashik
+2025-01-31,Friday,1,1,P002,Ibuprofen,Pain Relief,40,43.54,20,272,10,262,70,1,0,None,Cloudy,42151,3.8,0,10,15,Thane
+2025-02-01,Saturday,2,1,V002,Multivitamin,Vitamins,180,179.85,25,428,85,343,179,0,0,None,Rainy,6655,3.2,70,15,8,Pune
+2025-02-02,Sunday,2,1,V001,Vitamin C,Vitamins,120,120.15,15,223,83,140,189,1,0,None,Hot,12631,4.6,19,64,7,Pune
+2025-02-03,Monday,2,1,V001,Vitamin C,Vitamins,120,118.16,15,280,52,228,167,1,0,None,Rainy,30353,4,0,52,12,Pune
+2025-02-04,Tuesday,2,1,C001,Cough Syrup,Cold & Flu,90,81.16,15,155,87,68,76,1,0,None,Rainy,10372,4.9,36,51,15,Pune
+2025-02-05,Wednesday,2,1,C001,Cough Syrup,Cold & Flu,90,87.92,20,259,44,215,262,1,0,None,Sunny,37579,4.1,18,26,13,Pune
+2025-02-06,Thursday,2,1,P001,Paracetamol,Pain Relief,25,24.41,0,60,37,23,78,1,0,None,Sunny,15640,4.3,27,10,5,Nashik
+2025-02-07,Friday,2,1,V001,Vitamin C,Vitamins,120,116.41,10,365,66,299,57,1,0,None,Hot,16218,5,46,20,7,Mumbai
+2025-02-08,Saturday,2,1,C001,Cough Syrup,Cold & Flu,90,88.41,15,375,52,323,90,1,0,None,Hot,41847,4.5,48,4,6,Nashik
+2025-02-09,Sunday,2,1,P001,Paracetamol,Pain Relief,25,26.91,25,250,20,230,102,1,0,None,Cloudy,4254,3.1,16,4,2,Thane
+2025-02-10,Monday,2,1,C001,Cough Syrup,Cold & Flu,90,95.63,10,469,49,420,145,0,0,None,Cloudy,34953,4.2,37,12,14,Nashik
+2025-02-11,Tuesday,2,1,C002,Cold Tablet,Cold & Flu,60,62.01,15,210,38,172,279,0,0,None,Rainy,16327,3.5,6,32,3,Thane
+2025-02-12,Wednesday,2,1,C002,Cold Tablet,Cold & Flu,60,62.71,5,122,56,66,137,0,0,None,Cloudy,19631,4.7,22,34,8,Nashik
+2025-02-13,Thursday,2,1,V002,Multivitamin,Vitamins,180,184.42,20,346,48,298,238,1,0,None,Hot,19564,4,1,47,12,Mumbai
+2025-02-14,Friday,2,1,V002,Multivitamin,Vitamins,180,174.58,10,422,23,399,238,1,0,None,Sunny,39010,3.4,10,13,12,Pune
+2025-02-15,Saturday,2,1,V001,Vitamin C,Vitamins,120,112.12,20,91,64,27,267,0,0,None,Hot,47435,4.3,19,45,5,Mumbai
+2025-02-16,Sunday,2,1,C001,Cough Syrup,Cold & Flu,90,94.59,10,221,68,153,43,1,0,None,Rainy,5558,3,56,12,8,Mumbai
+2025-02-17,Monday,2,1,V002,Multivitamin,Vitamins,180,180.88,0,58,41,17,66,0,0,None,Cloudy,29648,4.4,2,39,14,Mumbai
+2025-02-18,Tuesday,2,1,C001,Cough Syrup,Cold & Flu,90,94.51,5,363,48,315,45,1,0,None,Hot,4997,4.5,1,47,11,Nashik
+2025-02-19,Wednesday,2,1,C002,Cold Tablet,Cold & Flu,60,59.74,25,97,11,86,148,1,0,None,Rainy,26590,3.1,11,0,7,Mumbai
+2025-02-20,Thursday,2,1,P002,Ibuprofen,Pain Relief,40,37.49,15,144,93,51,102,0,0,None,Rainy,21366,3.4,49,44,3,Mumbai
+2025-02-21,Friday,2,1,V002,Multivitamin,Vitamins,180,165.54,25,452,17,435,224,0,0,None,Cloudy,4430,4.8,9,8,7,Mumbai
+2025-02-22,Saturday,2,1,V002,Multivitamin,Vitamins,180,182.1,0,163,100,63,258,1,0,None,Hot,8604,3,43,57,6,Nashik
+2025-02-23,Sunday,2,1,V001,Vitamin C,Vitamins,120,110.27,0,464,63,401,208,0,0,None,Sunny,20689,4.1,6,57,12,Pune
+2025-02-24,Monday,2,1,V001,Vitamin C,Vitamins,120,110.62,15,234,33,201,38,1,0,None,Hot,11334,4.6,13,20,8,Thane
+2025-02-25,Tuesday,2,1,V002,Multivitamin,Vitamins,180,164.38,10,298,80,218,217,1,0,None,Rainy,7779,4.1,32,48,14,Pune
+2025-02-26,Wednesday,2,1,P001,Paracetamol,Pain Relief,25,26.95,15,218,29,189,284,1,0,None,Sunny,17983,4.5,1,28,10,Nashik
+2025-02-27,Thursday,2,1,P001,Paracetamol,Pain Relief,25,24.91,0,68,45,23,269,0,0,None,Cloudy,7329,4.3,42,3,8,Mumbai
+2025-02-28,Friday,2,1,V002,Multivitamin,Vitamins,180,192.34,5,150,73,77,74,1,0,None,Hot,41619,4.8,8,65,13,Pune
+2025-03-01,Saturday,3,1,P001,Paracetamol,Pain Relief,25,24.69,25,349,45,304,171,0,0,None,Rainy,39615,3.1,38,7,7,Nashik
+2025-03-02,Sunday,3,1,P001,Paracetamol,Pain Relief,25,24.94,25,200,49,151,206,1,0,None,Rainy,34383,3.2,18,31,15,Pune
+2025-03-03,Monday,3,1,V002,Multivitamin,Vitamins,180,168.39,5,267,67,200,297,0,0,None,Rainy,5106,3.1,12,55,2,Thane
+2025-03-04,Tuesday,3,1,V002,Multivitamin,Vitamins,180,186.25,15,432,82,350,85,1,0,None,Hot,26954,4.1,70,12,11,Mumbai
+2025-03-05,Wednesday,3,1,P002,Ibuprofen,Pain Relief,40,39.06,5,260,26,234,142,1,0,None,Cloudy,11675,4.2,2,24,4,Nashik
+2025-03-06,Thursday,3,1,V002,Multivitamin,Vitamins,180,166.45,15,137,45,92,227,1,0,None,Hot,11884,3.4,26,19,2,Nashik
+2025-03-07,Friday,3,1,P002,Ibuprofen,Pain Relief,40,40.32,20,298,68,230,297,0,0,None,Cloudy,34847,4.2,16,52,1,Pune
+2025-03-08,Saturday,3,1,V001,Vitamin C,Vitamins,120,118.65,20,115,6,109,245,1,0,None,Cloudy,15458,4.9,3,3,10,Nashik
+2025-03-09,Sunday,3,1,C001,Cough Syrup,Cold & Flu,90,85.27,0,433,81,352,213,0,0,None,Rainy,8526,3.3,74,7,8,Pune
+2025-03-10,Monday,3,1,V002,Multivitamin,Vitamins,180,168.43,20,107,39,68,289,0,0,None,Sunny,40618,4.5,18,21,9,Pune
+2025-03-11,Tuesday,3,1,V002,Multivitamin,Vitamins,180,170.56,15,319,50,269,254,1,0,None,Hot,8114,3,5,45,13,Mumbai
+2025-03-12,Wednesday,3,1,C001,Cough Syrup,Cold & Flu,90,84.48,10,378,36,342,83,1,0,None,Sunny,49792,3.5,1,35,11,Thane
+2025-03-13,Thursday,3,1,C001,Cough Syrup,Cold & Flu,90,84.7,5,455,44,411,131,0,0,None,Cloudy,12151,3.5,11,33,8,Pune
+2025-03-14,Friday,3,1,P001,Paracetamol,Pain Relief,25,26.91,0,453,17,436,170,1,0,None,Rainy,39999,3.2,6,11,1,Thane
+2025-03-15,Saturday,3,1,P001,Paracetamol,Pain Relief,25,26.59,20,359,61,298,129,1,0,None,Hot,4292,3.3,61,0,9,Pune
+2025-03-16,Sunday,3,1,P002,Ibuprofen,Pain Relief,40,42.18,15,125,16,109,184,1,0,None,Rainy,35044,4.2,3,13,15,Thane
+2025-03-17,Monday,3,1,V002,Multivitamin,Vitamins,180,170.15,10,96,69,27,291,1,0,None,Rainy,14399,4,54,15,15,Mumbai
+2025-03-18,Tuesday,3,1,P001,Paracetamol,Pain Relief,25,22.85,20,273,40,233,158,0,0,None,Cloudy,45055,3.4,13,27,5,Pune
+2025-03-19,Wednesday,3,1,P002,Ibuprofen,Pain Relief,40,39.86,20,54,47,7,175,1,0,None,Cloudy,23382,5,39,8,1,Thane
+2025-03-20,Thursday,3,1,C001,Cough Syrup,Cold & Flu,90,91.09,0,288,47,241,165,1,0,None,Cloudy,25963,4.3,18,29,9,Thane
+2025-03-21,Friday,3,1,P001,Paracetamol,Pain Relief,25,23.21,20,275,51,224,79,1,0,None,Rainy,26073,3.6,29,22,5,Nashik
+2025-03-22,Saturday,3,1,V001,Vitamin C,Vitamins,120,130.6,10,117,77,40,78,0,0,None,Hot,27501,3.4,4,73,7,Pune
+2025-03-23,Sunday,3,1,P001,Paracetamol,Pain Relief,25,24.08,15,181,87,94,277,0,0,None,Cloudy,6925,4.1,14,73,2,Nashik
+2025-03-24,Monday,3,1,C002,Cold Tablet,Cold & Flu,60,54.36,0,97,40,57,188,0,0,None,Rainy,27045,3.6,4,36,15,Pune
+2025-03-25,Tuesday,3,1,V001,Vitamin C,Vitamins,120,124.74,20,80,71,9,266,1,0,None,Cloudy,10233,4.5,25,46,7,Thane
+2025-03-26,Wednesday,3,1,V002,Multivitamin,Vitamins,180,165.9,0,178,44,134,198,0,0,None,Cloudy,6944,5,2,42,6,Pune
+2025-03-27,Thursday,3,1,C001,Cough Syrup,Cold & Flu,90,96.89,25,345,28,317,30,1,0,None,Sunny,4691,3.5,13,15,10,Mumbai
+2025-03-28,Friday,3,1,P001,Paracetamol,Pain Relief,25,23.36,0,445,54,391,147,1,0,None,Sunny,43280,4.5,43,11,12,Nashik
+2025-03-29,Saturday,3,1,V001,Vitamin C,Vitamins,120,114.41,15,424,16,408,46,1,0,None,Rainy,49085,3.6,7,9,5,Nashik
+2025-03-30,Sunday,3,1,P002,Ibuprofen,Pain Relief,40,39.99,15,332,61,271,249,0,0,None,Cloudy,24187,5,59,2,11,Pune
+2025-03-31,Monday,3,1,V002,Multivitamin,Vitamins,180,179.34,10,462,78,384,151,1,0,None,Sunny,45643,4.8,24,54,13,Pune
+2025-04-01,Tuesday,4,2,C001,Cough Syrup,Cold & Flu,90,82.48,25,227,98,129,245,0,0,None,Hot,25869,3.3,5,93,2,Pune
+2025-04-02,Wednesday,4,2,V001,Vitamin C,Vitamins,120,131.85,15,136,74,62,107,1,0,None,Hot,11383,5,26,48,13,Nashik
+2025-04-03,Thursday,4,2,C002,Cold Tablet,Cold & Flu,60,57.96,10,227,10,217,24,0,0,None,Rainy,20076,4.8,5,5,12,Pune
+2025-04-04,Friday,4,2,C001,Cough Syrup,Cold & Flu,90,81.71,10,472,10,462,25,0,0,None,Rainy,31527,4.1,6,4,12,Mumbai
+2025-04-05,Saturday,4,2,P002,Ibuprofen,Pain Relief,40,42.85,25,273,27,246,297,0,0,None,Sunny,4702,4.8,9,18,4,Pune
+2025-04-06,Sunday,4,2,P001,Paracetamol,Pain Relief,25,24.07,0,121,42,79,104,1,0,None,Rainy,42087,3.3,5,37,4,Nashik
+2025-04-07,Monday,4,2,V001,Vitamin C,Vitamins,120,115.45,15,87,67,20,148,1,0,None,Sunny,28673,3.8,45,22,15,Mumbai
+2025-04-08,Tuesday,4,2,P002,Ibuprofen,Pain Relief,40,42.9,10,54,15,39,275,0,0,None,Rainy,42711,4.4,3,12,8,Thane
+2025-04-09,Wednesday,4,2,P001,Paracetamol,Pain Relief,25,23.39,25,355,39,316,233,0,0,None,Sunny,43687,3.5,39,0,6,Pune
+2025-04-10,Thursday,4,2,C002,Cold Tablet,Cold & Flu,60,55.47,15,119,34,85,255,1,0,None,Hot,2541,4.2,21,13,1,Pune
+2025-04-11,Friday,4,2,V001,Vitamin C,Vitamins,120,110.53,5,192,51,141,244,0,0,None,Sunny,32141,5,19,32,13,Pune
+2025-04-12,Saturday,4,2,C001,Cough Syrup,Cold & Flu,90,96.65,25,83,42,41,89,0,0,None,Rainy,35509,3.6,36,6,15,Thane
+2025-04-13,Sunday,4,2,C002,Cold Tablet,Cold & Flu,60,65.52,20,494,6,488,201,0,0,None,Sunny,41237,3,3,3,12,Pune
+2025-04-14,Monday,4,2,V001,Vitamin C,Vitamins,120,128.65,20,161,89,72,198,1,0,None,Hot,8826,4.6,31,58,8,Thane
+2025-04-15,Tuesday,4,2,P002,Ibuprofen,Pain Relief,40,42.82,10,451,68,383,181,1,0,None,Sunny,38107,3.4,27,41,12,Nashik
+2025-04-16,Wednesday,4,2,P002,Ibuprofen,Pain Relief,40,40.22,15,152,98,54,119,0,0,None,Sunny,14098,4.9,86,12,14,Nashik
+2025-04-17,Thursday,4,2,V001,Vitamin C,Vitamins,120,115.1,25,115,27,88,211,0,0,None,Cloudy,14125,3.2,16,11,8,Pune
+2025-04-18,Friday,4,2,P001,Paracetamol,Pain Relief,25,26.74,20,379,64,315,190,0,0,None,Sunny,43663,3.3,38,26,12,Thane
+2025-04-19,Saturday,4,2,V002,Multivitamin,Vitamins,180,197.64,0,373,90,283,241,1,0,None,Hot,47342,3.8,72,18,8,Mumbai
+2025-04-20,Sunday,4,2,V002,Multivitamin,Vitamins,180,195.02,25,104,93,11,195,0,0,None,Hot,38230,4.3,41,52,12,Mumbai
+2025-04-21,Monday,4,2,C002,Cold Tablet,Cold & Flu,60,60.47,25,53,23,30,36,0,0,None,Cloudy,16918,4.3,10,13,3,Mumbai
+2025-04-22,Tuesday,4,2,P002,Ibuprofen,Pain Relief,40,41.79,10,474,75,399,249,0,0,None,Hot,10514,4.5,47,28,12,Nashik
+2025-04-23,Wednesday,4,2,P001,Paracetamol,Pain Relief,25,26.5,10,399,10,389,295,0,0,None,Rainy,26296,4.2,10,0,15,Pune
+2025-04-24,Thursday,4,2,P001,Paracetamol,Pain Relief,25,26.83,0,254,53,201,20,1,0,None,Cloudy,21504,4.5,47,6,9,Nashik
+2025-04-25,Friday,4,2,C001,Cough Syrup,Cold & Flu,90,82.79,5,307,20,287,127,0,0,None,Rainy,18657,3.8,18,2,1,Pune
+2025-04-26,Saturday,4,2,C002,Cold Tablet,Cold & Flu,60,63.56,10,271,6,265,136,1,0,None,Cloudy,42013,3.8,3,3,5,Nashik
+2025-04-27,Sunday,4,2,P002,Ibuprofen,Pain Relief,40,38.35,10,357,80,277,227,1,0,None,Cloudy,44651,3.2,12,68,11,Thane
+2025-04-28,Monday,4,2,C002,Cold Tablet,Cold & Flu,60,65.45,0,365,23,342,124,1,0,None,Hot,13700,3.6,13,10,2,Nashik
+2025-04-29,Tuesday,4,2,V001,Vitamin C,Vitamins,120,115.22,10,134,41,93,252,0,0,None,Sunny,43097,4.4,29,12,3,Nashik
+2025-04-30,Wednesday,4,2,C001,Cough Syrup,Cold & Flu,90,97.3,0,457,57,400,89,1,0,None,Rainy,35272,3.3,24,33,12,Mumbai
+2025-05-01,Thursday,5,2,V002,Multivitamin,Vitamins,180,167.85,5,484,15,469,177,0,0,None,Hot,4429,4.4,10,5,11,Pune
+2025-05-02,Friday,5,2,V001,Vitamin C,Vitamins,120,110.88,0,339,22,317,29,1,0,None,Sunny,3937,3.6,19,3,8,Mumbai
+2025-05-03,Saturday,5,2,P001,Paracetamol,Pain Relief,25,25.15,25,380,71,309,45,0,0,None,Hot,9987,4.8,71,0,5,Nashik
+2025-05-04,Sunday,5,2,C002,Cold Tablet,Cold & Flu,60,54.42,20,255,68,187,220,1,0,None,Rainy,47292,4.9,20,48,3,Mumbai
+2025-05-05,Monday,5,2,P002,Ibuprofen,Pain Relief,40,42.02,20,428,98,330,281,1,0,None,Sunny,15590,4.8,68,30,3,Nashik
+2025-05-06,Tuesday,5,2,V001,Vitamin C,Vitamins,120,122.91,25,158,23,135,23,0,0,None,Hot,35476,3.6,0,23,4,Mumbai
+2025-05-07,Wednesday,5,2,C002,Cold Tablet,Cold & Flu,60,62.67,20,366,71,295,116,1,0,None,Sunny,45363,3.4,60,11,13,Pune
+2025-05-08,Thursday,5,2,P002,Ibuprofen,Pain Relief,40,40.08,15,480,11,469,168,1,0,None,Cloudy,12433,3.9,10,1,13,Mumbai
+2025-05-09,Friday,5,2,V001,Vitamin C,Vitamins,120,124.02,15,485,55,430,172,0,0,None,Rainy,31117,4.5,16,39,8,Mumbai
+2025-05-10,Saturday,5,2,P002,Ibuprofen,Pain Relief,40,40.72,15,450,8,442,48,0,0,None,Sunny,26994,4.2,5,3,3,Thane
+2025-05-11,Sunday,5,2,V002,Multivitamin,Vitamins,180,189.68,10,284,5,279,182,0,0,None,Hot,1049,4.4,2,3,3,Mumbai
+2025-05-12,Monday,5,2,C001,Cough Syrup,Cold & Flu,90,94.07,0,217,49,168,232,0,0,None,Hot,38918,3.9,32,17,5,Thane
+2025-05-13,Tuesday,5,2,P001,Paracetamol,Pain Relief,25,24.65,10,306,88,218,247,0,0,None,Hot,2242,4.4,30,58,3,Thane
+2025-05-14,Wednesday,5,2,P001,Paracetamol,Pain Relief,25,25.23,5,163,36,127,233,1,0,None,Sunny,41589,4.8,4,32,15,Pune
+2025-05-15,Thursday,5,2,P002,Ibuprofen,Pain Relief,40,43.92,0,360,47,313,66,0,0,None,Cloudy,23768,3.4,32,15,15,Pune
+2025-05-16,Friday,5,2,P002,Ibuprofen,Pain Relief,40,36.39,5,120,63,57,38,0,0,None,Rainy,19991,4.4,59,4,5,Thane
+2025-05-17,Saturday,5,2,V001,Vitamin C,Vitamins,120,121.44,10,304,46,258,153,1,0,None,Cloudy,23009,3.3,41,5,1,Nashik
+2025-05-18,Sunday,5,2,C001,Cough Syrup,Cold & Flu,90,83.16,5,125,34,91,260,1,0,None,Hot,10226,5,29,5,11,Mumbai
+2025-05-19,Monday,5,2,P001,Paracetamol,Pain Relief,25,25.01,20,74,21,53,197,1,0,None,Cloudy,25667,3.4,13,8,11,Nashik
+2025-05-20,Tuesday,5,2,P001,Paracetamol,Pain Relief,25,26.68,15,314,36,278,151,1,0,None,Sunny,30034,3.7,26,10,10,Pune
+2025-05-21,Wednesday,5,2,V002,Multivitamin,Vitamins,180,191.08,25,355,86,269,230,1,0,None,Rainy,19537,3.6,4,82,15,Mumbai
+2025-05-22,Thursday,5,2,C001,Cough Syrup,Cold & Flu,90,87.35,15,188,39,149,192,1,0,None,Hot,46437,4,28,11,8,Thane
+2025-05-23,Friday,5,2,P001,Paracetamol,Pain Relief,25,26.83,20,61,46,15,132,0,0,None,Rainy,21818,3.4,17,29,11,Mumbai
+2025-05-24,Saturday,5,2,C001,Cough Syrup,Cold & Flu,90,91.81,20,153,81,72,220,0,0,None,Hot,7522,4,17,64,14,Pune
+2025-05-25,Sunday,5,2,C002,Cold Tablet,Cold & Flu,60,63.59,25,453,76,377,172,0,0,None,Cloudy,32657,3.9,46,30,13,Thane
+2025-05-26,Monday,5,2,C001,Cough Syrup,Cold & Flu,90,84.61,15,327,87,240,190,1,0,None,Rainy,14149,4.8,72,15,6,Nashik
+2025-05-27,Tuesday,5,2,C002,Cold Tablet,Cold & Flu,60,64.12,10,53,12,41,281,1,0,None,Rainy,34909,3,2,10,6,Thane
+2025-05-28,Wednesday,5,2,V002,Multivitamin,Vitamins,180,188.19,0,341,31,310,151,0,0,None,Rainy,9869,4,6,25,1,Pune
+2025-05-29,Thursday,5,2,V001,Vitamin C,Vitamins,120,130.61,10,166,94,72,283,1,0,None,Rainy,36233,3.8,84,10,15,Pune
+2025-05-30,Friday,5,2,V002,Multivitamin,Vitamins,180,181.82,20,62,60,2,108,1,0,None,Rainy,48002,3.4,50,10,15,Nashik
+2025-05-31,Saturday,5,2,P001,Paracetamol,Pain Relief,25,23.18,20,445,41,404,45,1,0,None,Cloudy,37427,3.7,11,30,10,Thane
+2025-06-01,Sunday,6,2,V002,Multivitamin,Vitamins,180,186.37,10,384,99,285,98,0,0,None,Cloudy,21356,4.4,91,8,2,Nashik
+2025-06-02,Monday,6,2,V001,Vitamin C,Vitamins,120,119.55,5,122,36,86,68,0,0,None,Cloudy,30058,5,14,22,6,Thane
+2025-06-03,Tuesday,6,2,C002,Cold Tablet,Cold & Flu,60,63.33,25,332,37,295,25,0,0,None,Rainy,23197,3.7,2,35,9,Mumbai
+2025-06-04,Wednesday,6,2,P001,Paracetamol,Pain Relief,25,25.98,5,133,6,127,74,1,0,None,Rainy,17659,4.8,4,2,4,Nashik
+2025-06-05,Thursday,6,2,P002,Ibuprofen,Pain Relief,40,43.45,5,189,6,183,286,1,0,None,Sunny,25166,4.6,2,4,5,Nashik
+2025-06-06,Friday,6,2,P002,Ibuprofen,Pain Relief,40,39.85,0,281,91,190,202,0,0,None,Hot,17042,4.1,62,29,15,Thane
+2025-06-07,Saturday,6,2,P002,Ibuprofen,Pain Relief,40,42,5,328,84,244,295,1,0,None,Hot,29590,4.2,72,12,4,Pune
+2025-06-08,Sunday,6,2,P002,Ibuprofen,Pain Relief,40,39.21,25,280,17,263,42,1,0,None,Rainy,13754,4.7,12,5,5,Mumbai
+2025-06-09,Monday,6,2,C001,Cough Syrup,Cold & Flu,90,82.46,15,476,14,462,263,0,0,None,Rainy,8812,3.2,4,10,13,Mumbai
+2025-06-10,Tuesday,6,2,V001,Vitamin C,Vitamins,120,122.78,0,65,62,3,241,1,0,None,Rainy,41973,3.3,39,23,12,Thane
+2025-06-11,Wednesday,6,2,C002,Cold Tablet,Cold & Flu,60,58.85,25,110,5,105,273,0,0,None,Sunny,16583,3.4,1,4,9,Thane
+2025-06-12,Thursday,6,2,C001,Cough Syrup,Cold & Flu,90,81.39,25,214,22,192,122,0,0,None,Sunny,39658,3.7,3,19,15,Pune
+2025-06-13,Friday,6,2,V002,Multivitamin,Vitamins,180,170.28,5,61,10,51,170,0,0,None,Hot,34848,3.7,9,1,2,Thane
+2025-06-14,Saturday,6,2,V002,Multivitamin,Vitamins,180,171.18,25,382,75,307,78,1,0,None,Hot,3690,4.5,58,17,12,Pune
+2025-06-15,Sunday,6,2,V001,Vitamin C,Vitamins,120,114.39,5,137,100,37,125,1,0,None,Rainy,12986,4.5,14,86,15,Nashik
+2025-06-16,Monday,6,2,C001,Cough Syrup,Cold & Flu,90,82.93,15,235,52,183,191,1,0,None,Cloudy,27554,3.2,7,45,1,Mumbai
+2025-06-17,Tuesday,6,2,C002,Cold Tablet,Cold & Flu,60,65.86,25,366,77,289,265,1,0,None,Rainy,30330,3.6,51,26,3,Pune
+2025-06-18,Wednesday,6,2,V001,Vitamin C,Vitamins,120,110.48,0,406,69,337,183,1,0,None,Cloudy,42496,4.1,51,18,1,Nashik
+2025-06-19,Thursday,6,2,C002,Cold Tablet,Cold & Flu,60,56.66,20,269,84,185,258,1,0,None,Rainy,29438,4.3,23,61,6,Nashik
+2025-06-20,Friday,6,2,C001,Cough Syrup,Cold & Flu,90,90.81,5,66,43,23,108,0,0,None,Sunny,45282,4.8,27,16,14,Thane
+2025-06-21,Saturday,6,2,V002,Multivitamin,Vitamins,180,184.9,25,443,41,402,195,1,0,None,Sunny,21870,4.2,29,12,6,Thane
+2025-06-22,Sunday,6,2,P001,Paracetamol,Pain Relief,25,25.85,0,248,67,181,207,0,0,None,Cloudy,12882,3.6,42,25,2,Thane
+2025-06-23,Monday,6,2,V001,Vitamin C,Vitamins,120,124.35,10,426,28,398,212,0,0,None,Sunny,27410,4.6,5,23,15,Nashik
+2025-06-24,Tuesday,6,2,C002,Cold Tablet,Cold & Flu,60,57.15,0,70,12,58,35,0,0,None,Rainy,3058,4.4,3,9,13,Pune
+2025-06-25,Wednesday,6,2,C002,Cold Tablet,Cold & Flu,60,63.84,15,191,79,112,209,1,0,None,Sunny,34264,4.2,59,20,10,Nashik
+2025-06-26,Thursday,6,2,P002,Ibuprofen,Pain Relief,40,41.94,0,422,23,399,88,1,0,None,Cloudy,14572,3.1,12,11,9,Pune
+2025-06-27,Friday,6,2,P002,Ibuprofen,Pain Relief,40,41.44,10,253,98,155,164,0,0,None,Cloudy,24817,4.3,77,21,1,Nashik
+2025-06-28,Saturday,6,2,V001,Vitamin C,Vitamins,120,113.68,15,95,46,49,102,0,0,None,Sunny,21662,3.5,44,2,13,Nashik
+2025-06-29,Sunday,6,2,V002,Multivitamin,Vitamins,180,195.01,5,180,69,111,229,1,0,None,Cloudy,32649,4.4,57,12,9,Thane

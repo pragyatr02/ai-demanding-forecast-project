@@ -1,166 +1,89 @@
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Arial;
-}
-
-body{
-
-background:
-linear-gradient(
-135deg,
-#071120,
-#0d1b3a,
-#142850
-);
-
-}
-
 .login-page{
-
 height:100vh;
-
 display:flex;
-
-justify-content:space-around;
-
+justify-content:space-between;
 align-items:center;
-
 padding:80px;
-
+background:linear-gradient(135deg,#2563eb,#1e3a8a);
 }
 
 .left{
-
+width:45%;
 color:white;
-
-width:40%;
-
 }
 
 .left h1{
-
-font-size:64px;
-
+font-size:55px;
+font-weight:700;
 margin-bottom:20px;
-
 }
 
 .left p{
-
-font-size:22px;
-
-color:#cbd5e1;
-
-line-height:1.8;
-
+font-size:20px;
+line-height:35px;
+opacity:.9;
 }
 
 .login-card{
-
-width:400px;
-
-background:#111827;
-
+width:420px;
+background:white;
 padding:45px;
-
-border-radius:22px;
-
-display:flex;
-
-flex-direction:column;
-
-gap:18px;
-
-box-shadow:
-0 20px 60px
-rgba(
-0,
-0,
-0,
-0.45
-);
-
+border-radius:20px;
+box-shadow:0 20px 50px rgba(0,0,0,.25);
 }
 
 .login-card h2{
-
-color:white;
-
-text-align:center;
-
-margin-bottom:10px;
-
+margin-bottom:30px;
+color:#1e3a8a;
 }
 
-input{
-
+.login-card input{
+width:100%;
 padding:16px;
-
-background:#1f2937;
-
-border:1px solid #374151;
-
-color:white;
-
+margin:12px 0;
+border:1px solid #ddd;
 border-radius:12px;
-
 font-size:15px;
-
+transition:.3s;
 }
 
-input::placeholder{
-
-color:#9ca3af;
-
+.login-card input:focus{
+border-color:#2563eb;
+box-shadow:0 0 10px rgba(37,99,235,.3);
 }
 
-input:focus{
-
-outline:none;
-
-border:1px solid #3b82f6;
-
-}
-
-button{
-
-padding:15px;
-
-background:
-linear-gradient(
-90deg,
-#2563eb,
-#3b82f6
-);
-
+.login-card button{
+width:100%;
+padding:16px;
+margin-top:20px;
+background:#2563eb;
 color:white;
-
-border:none;
-
+font-size:18px;
 border-radius:12px;
-
-font-size:16px;
-
-font-weight:bold;
-
-cursor:pointer;
-
+font-weight:600;
 }
 
-button:hover{
-
-opacity:.9;
-
+.login-card button:hover{
+background:#1d4ed8;
+transform:translateY(-2px);
 }
 
-span{
+@media(max-width:900px){
 
-color:#93c5fd;
-
+.login-page{
+flex-direction:column;
+padding:30px;
 text-align:center;
+}
 
-cursor:pointer;
+.left{
+width:100%;
+margin-bottom:40px;
+}
+
+.login-card{
+width:100%;
+max-width:420px;
+}
 
 }
